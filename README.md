@@ -8,8 +8,7 @@ This is a script by which you can install Kali nethunter (Kali Linux) in your te
 
 2 pkg install git
 
-3 git clone https://github.com/aryanfranklin/Nethunter-for-termux.git
-
+3 git clone https://github.com/aryanfranklin/Kali-net-hunter.git
 4 cd Nethunter-for-termux
 
 5 chmod +x kalinethunter
