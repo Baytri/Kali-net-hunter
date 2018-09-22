@@ -17,4 +17,5 @@ This is a script by which you can install Kali nethunter (Kali Linux) in your te
 6 ./kalinethunter
 
 after installing nethunter type command
+
 7 ./startkali.sh
